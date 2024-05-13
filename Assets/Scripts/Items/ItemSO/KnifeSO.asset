@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 49fe8e7acfc34b642a13aeea81494f0a, type: 3}
+  m_Name: KnifeSO
+  m_EditorClassIdentifier: 
+  pfItem: {fileID: 4349235795870719664, guid: 9ce40a085513e494d8b252bd57a331e3, type: 3}
+  chaseRadius: 30
+  attackRadius: 2
+  damageAmount: 10
+  itemSound: {fileID: 8300000, guid: 70100602fca5ca54abec51086c570d7a, type: 3}

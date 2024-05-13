@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 49fe8e7acfc34b642a13aeea81494f0a, type: 3}
+  m_Name: RifleSO
+  m_EditorClassIdentifier: 
+  pfItem: {fileID: 4349235795870719664, guid: 00b7e83770e847b44b21a85b1e404e89, type: 3}
+  chaseRadius: 30
+  attackRadius: 15
+  damageAmount: 20
+  itemSound: {fileID: 8300000, guid: 9f615be8da7adbc4c84733b0626ff066, type: 3}
